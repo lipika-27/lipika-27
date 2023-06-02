@@ -4,8 +4,6 @@
 
 - 🙂 Pronouns **she/her**
 
-- 🌱 I’m currently learning **Cloud Computing, DSA**
-
 - 🔭 Goal **Contribute to Open Source and learn technologies**
 
 - 📫 How to reach me **lipika938@gmail.com**
